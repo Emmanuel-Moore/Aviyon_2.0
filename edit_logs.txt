@@ -1,0 +1,30 @@
+/*---------------------------------------------------------------- edit logs created by Emmanuel Moore -->
+
+- 10/05/2015
+**********  build: beta: 1.0002
+//mobile//
+fixed sidebar current page selection
+//web//
+removed striped css color logic to idex header
+
+- 10/06/2015
+**********  build: beta: 1.0002
+//web//--//mobile//
+added aviy_code script to top source code
+
+- 10/13/2015
+**********  build: beta: 1.0002
+//web//
+hidden updates to user page
+
+- 10/14/2015
+**********  build: beta: 1.0002
+//web//
+2nd header nav margin fix
+login/signup - user options margin fix
+//mobile//
+fixed secondary header for variables
+
+/*---------------------------------------------------------------- edit logs created by Emmanuel Moore -->
+*/
+
